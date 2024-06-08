@@ -20,7 +20,7 @@ To use HackerPrompt, follow these steps:
 
 2. **Navigate to the Directory**:
     ```sh
-    cd HackerPrompt
+    cd HackerPrompt/HackerPrompt131
     ```
 
 3. **Run the Executable**:
