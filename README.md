@@ -25,7 +25,7 @@ To use HackerPrompt, follow these steps:
 
 3. **Run the Executable**:
     ```sh
-      HackerPrompt.exe
+      HackerPrompt V1.3.exe
     ```
 
 ## Usage
